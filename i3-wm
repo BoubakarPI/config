@@ -1,4 +1,4 @@
-# Définir la touche principale (ici `Mod4` correspond à la touche Windows)
+# Ma touche principale (ici `Mod4` correspond à la touche Windows),
 set $mod Mod4
 
 # erase title bar
